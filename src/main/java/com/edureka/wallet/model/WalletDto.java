@@ -3,6 +3,7 @@ package com.edureka.wallet.model;
 import java.io.Serializable;
 
 public class WalletDto implements Serializable {
+	//Test comment added
 
 	private static final long serialVersionUID = 7744691402722556258L;
 
